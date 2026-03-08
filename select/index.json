@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "心得",
+  "base_artist": "Uru",
+  "createdAt": "2026-03-08T06:27:51.485563Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "心得",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/01_心得_Uru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "心得",
+      "artist": "Uru",
+      "has_synced": false,
+      "path": "select/02_心得_Uru.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心得",
+      "artist": "Uru",
+      "has_synced": false,
+      "path": "select/pl_01_心得_Uru.txt"
+    }
+  ]
+}
